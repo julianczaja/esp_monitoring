@@ -1,0 +1,9 @@
+[submodule "esp_monitoring_app"]
+	path = esp_monitoring_app
+	url = https://github.com/julianczaja/esp_monitoring_app
+[submodule "esp_monitoring_backend"]
+	path = esp_monitoring_backend
+	url = https://github.com/julianczaja/esp_monitoring_backend
+[submodule "esp_monitoring_embedded"]
+	path = esp_monitoring_embedded
+	url = https://github.com/julianczaja/esp_monitoring_embedded
